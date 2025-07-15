@@ -2,11 +2,6 @@
 
 A concise overview of what the deloitte project does and who it's for.
 
-🚀 Description
-
-deloitte is a [brief project description — e.g. "cyber‑incident‑response automation tool using CrowdStrike Falcon API" or whatever fits your repo].
-It enables [primary functionality] to help [target audience] achieve [benefit].
-
 🔧 Key Features
 
 ✅ Feature 1: e.g. Integration with CrowdStrike Falcon for incident alerts
